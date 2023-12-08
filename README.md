@@ -1,5 +1,6 @@
-# Regression-Attempt-
-House Prices using 6 Regression models
+# Regression Attempt
+
+House Prices using 6 Regression models => Dataset: https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge
 
 POLYNOMIAL REGRESSION
 
